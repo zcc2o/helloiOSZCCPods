@@ -1,0 +1,16 @@
+PODS:
+  - helloiOSZCCPods (0.1.0)
+
+DEPENDENCIES:
+  - helloiOSZCCPods (from `../`)
+
+EXTERNAL SOURCES:
+  helloiOSZCCPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  helloiOSZCCPods: 1a84db1f9966925c740c9a57d20afa4704a21d0d
+
+PODFILE CHECKSUM: f9f75b8b8c8dd90c296dd02600b17c8fa4d0c1d4
+
+COCOAPODS: 1.9.3

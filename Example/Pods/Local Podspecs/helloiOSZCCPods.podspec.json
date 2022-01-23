@@ -1,0 +1,22 @@
+{
+  "name": "helloiOSZCCPods",
+  "version": "0.1.0",
+  "summary": "A short description of helloiOSZCCPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zcc/helloiOSZCCPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zcc": "zcc131014@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zcc/helloiOSZCCPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "helloiOSZCCPods/Classes/**/*"
+}
