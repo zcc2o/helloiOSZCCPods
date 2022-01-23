@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'helloiOSZCCPods_Example' do
+  pod 'helloiOSZCCPods', :path => '../'
+
+  target 'helloiOSZCCPods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
